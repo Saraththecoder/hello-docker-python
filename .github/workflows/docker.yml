@@ -26,4 +26,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sarath5678/hello-docker-python:latest
+          tags: sarath5678/python-hello:latest
