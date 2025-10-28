@@ -1,1 +1,2 @@
-print("Aditya01")
+a=int(input("Enter the name:"))
+print(a)
